@@ -1,4 +1,4 @@
-package com.luma.ui.theme
+package com.luma.ui.designsystem.theme
 
 import androidx.compose.ui.graphics.Color
 
